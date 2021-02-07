@@ -13,16 +13,16 @@ We will be creating a database using a mix of Python, CSV files and SQL to ident
 
 #### Retiring titles
 In part one of our task, we identify the number of employees retiring. In the following image, we can see that there are 6 titles that will have employees retiring and how many people per each title.<br>
-![alt text](http://url/to/img.png) <br>
+![Retiring](https://github.com/benlew3/Pewlett_Hackard/blob/main/images/retiring%20titles.PNG) <br>
 From this image, we are able to tell which titles will be most impacted by retirement. From the chart, it shows that 29,414 senior engineers will are close to the retirement eligibility, and the least impacted from this chart are managers with only 2 people.
 
 #### Mentorship Eligibility
 In the chart below is a snippit on employees who are eligible for mentorship. This summary includes their age, name, birth dates and current title. In this particular query, we did a search on people who were born in the year 1965.<br>
-![alt text](http://url/to/img.png)
+![mentorship](https://github.com/benlew3/Pewlett_Hackard/blob/main/images/mentorship.PNG)
 
 Based on this data, there are a total of 300,024 employees currently employed by Perlett Hackard and of those, 90,398 employees are reaching the retirement age. This makes up roughly 30% of the company. The age range for the "Silver Tsunami" ranges from their birth years being between 1952-1955. Although many of them have been loyal employees for a long time, we can anticipate that within the next few years, there will be mass exedious of the older generational employees. 
 
-![alt text](http://url/to/img.png)<br>
+![senior titles](https://github.com/benlew3/Pewlett_Hackard/blob/main/images/Senior%20titles.PNG)<br>
 In the image above, we can see that 57,668 employees currently hold senior titles that are within the age range of the "Silver Tsunami". This can have a major company imact as 29,414 Sr Engineers and 28,254 Sr Staff will be retiring will leave with a large technical experience and knowedge. 
 
 ## Difficulties and Challenges
