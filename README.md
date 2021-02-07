@@ -13,7 +13,7 @@ We will be creating a database using a mix of Python, CSV files and SQL to ident
 
 #### Retiring titles
 In part one of our task, we identify the number of employees retiring. In the following image, we can see that there are 6 titles that will have employees retiring and how many people per each title.
-![](http://url/to/img.png) <br>
+![alt text](http://url/to/img.png) <br>
 From this image, we are able to tell which titles will be most impacted by retirement. From the chart, it shows that 29,414 senior engineers will are close to the retirement eligibility, and the least impacted from this chart are managers with only 2 people.
 
 #### Mentorship Eligibility
